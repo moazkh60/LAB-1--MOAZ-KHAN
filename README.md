@@ -22,19 +22,19 @@ Language Used:
 	HTML, HTML 5
 
 Tags Used:
-o	<html></html>  // html opening and closing tag
-o	<head></head>  // head tag is used for writing the title of the website
-o	<body></body>  // body tag is used withing html tag but after head tag for writing main webpage body
-o	<p></p>        // this is the paragraph tag for writing some text in the form of paragraph
-o	<table></table>// table tag is used to make html tables and to align the data in a neat way
-	<tr> //table row tag
-	<td> // table column tag
-o	<font></font> // font tag used to adjust the font of the website
-o	<footer></footer> // used to adjust the footer
-o	<hr/> horizontal line
-o	<ui> // unordered list
-o	<li> // list tag
-o	<h1> // heading1  tag used for larger headings
-o	<img> // for adding images in the webpage
-o	<a href> //for adding hyperlinks
+o	html  // html opening and closing tag
+o	head  // head tag is used for writing the title of the website
+o	body  // body tag is used withing html tag but after head tag for writing main webpage body
+o	p     // this is the paragraph tag for writing some text in the form of paragraph
+o	table // table tag is used to make html tables and to align the data in a neat way
+		tr //table row tag
+		td // table column tag
+o	font // font tag used to adjust the font of the website
+o	footer // used to adjust the footer
+o	hr horizontal line
+o	ui // unordered list
+o	li // list tag
+o	h1 // heading1  tag used for larger headings
+o	img// for adding images in the webpage
+o	a href //for adding hyperlinks
 	
