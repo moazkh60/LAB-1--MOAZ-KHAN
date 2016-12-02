@@ -12,4 +12,4 @@ Any web browser e.g Safari, Chrome or Firefox etc
 
 ## Authors
 
-* **Muhammad Moaz Khan** 
+* **Muhammad Moaz Khan** - (https://github.com/moazkh60) 
