@@ -1,4 +1,4 @@
-# Project Title
+# Simple Web Page
 
 Simple Web Page - Developed in HTML as part of the first introduction Lab of Web Engineering course
 
